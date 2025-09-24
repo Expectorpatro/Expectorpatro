@@ -50,7 +50,7 @@
 
 ## 🧠 Let’s Chat!
 
-If you’re into **computational biology**, **statistics**, **probability**，**machine learning**, **deep learning**, or if you just want to geek out over algorithms (or maybe discuss your latest paper), hit me up! 🚀  
+If you’re into **computational biology**, **statistics**, **probability**, **machine learning**, **deep learning**, or if you just want to geek out over algorithms (or maybe discuss your latest paper), hit me up! 🚀  
 Whether it’s coding, research, or life—let’s chat about how we can push the limits of what’s possible! 😜  
 📧 Email: nxcexpect@163.com
 
