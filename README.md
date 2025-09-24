@@ -23,25 +23,16 @@
 ## 🛠️ Tools & Tech I Use
 
 ### 🔥 **Languages**:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
 
 ### 💡 **Libraries**:
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![Imbalanced-learn](https://img.shields.io/badge/-Imbalance--learn-2C88D9?style=flat-square&logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![Tidyverse](https://img.shields.io/badge/-Tidyverse-4E3B4E?style=flat-square&logo=r&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  ![Imbalanced-learn](https://img.shields.io/badge/-Imbalance--learn-2C88D9?style=flat-square&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![Tidyverse](https://img.shields.io/badge/-Tidyverse-4E3B4E?style=flat-square&logo=r&logoColor=white)  
 
 ### 🛠️ **Tools**:
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)  
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)  
-![Quarto](https://img.shields.io/badge/-Quarto-3A4042?style=flat-square&logo=quarto&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)  ![Quarto](https://img.shields.io/badge/-Quarto-3A4042?style=flat-square&logo=quarto&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 
 ### 💡 **Learning**:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
 
 ---
 
