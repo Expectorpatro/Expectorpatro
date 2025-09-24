@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Xingcheng Ni  
 
-🚀 **Researcher | Developer | Learner**
+🚀 **Researcher | Developer | Learner | PhD Student**
 
 ---
 
