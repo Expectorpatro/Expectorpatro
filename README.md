@@ -18,6 +18,9 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Expectorpatro&layout=compact&theme=tokyonight)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Expectorpatro&theme=tokyonight&no-bg=true&row=1&column=6)
+
+
 ---
 
 ## 🛠️ Tools & Tech I Use
