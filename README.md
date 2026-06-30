@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Xingcheng Ni**  
-https://github.com/Expectorpatro/Expectorpatro/blob/main/README.md
+
 🚀 **Researcher | Developer | Aspiring Bioinformatician | Future PhD (hopefully!)**
 
 ---
