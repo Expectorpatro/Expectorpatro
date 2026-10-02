@@ -93,7 +93,7 @@ It started as an experiment with a friend and remains very much a work in progre
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Expectorpatro&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=Expectorpatro&theme=tokyonight&hide_border=true" />
 
 </div>
 
