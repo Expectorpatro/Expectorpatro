@@ -71,9 +71,7 @@ The project started from coursework and gradually evolved into a more systematic
 
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td width="50%" valign="top">
 
