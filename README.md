@@ -73,6 +73,10 @@ The project started from coursework and gradually evolved into a more systematic
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📈 [stock](https://github.com/Expectorpatro/stock)
 
 A small project exploring quantitative ideas related to financial markets.
@@ -80,6 +84,22 @@ A small project exploring quantitative ideas related to financial markets.
 It started as an experiment with a friend and remains very much a work in progress.
 
 > No promises of becoming stock-market moguls yet.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📖 [cn-terms](https://github.com/Expectorpatro/cn-terms)
+
+A lightweight **Chinese–English terminology management package for LaTeX** documents.
+
+It provides a simple way to define and manage bilingual terminology, automatically generate an **A–Z glossary**, and link glossary entries back to their first occurrence in the document.
+
+It was originally built to make terminology management in large Chinese LaTeX projects cleaner and considerably less painful.
+
+</td>
+</tr>
+</table>
 
 ---
 
